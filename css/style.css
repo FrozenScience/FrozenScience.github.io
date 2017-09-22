@@ -94,12 +94,6 @@ h1, h2, h3{
 .entrytitle h2 a:hover{
 	color:#7ABE2D;
 }
-#sidebar h3{
-	color:#000;
-	font-size:1.5em;
-	margin:2px;
-        font-weight:bold;
-}
 /*************************************
  +Entry
  *************************************/
